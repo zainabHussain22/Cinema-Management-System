@@ -23,9 +23,9 @@ The system allows customers to browse movies, book tickets, order meals, and mak
 - Manage customers
 - Generate reports
 
-## 🛠️ Technologies Used
-- Java
-- Java Swing (GUI)
-- Maven
-- MySQL / JDBC
-- DAO Design Pattern
+### Technologies Used
+Java
+Java Swing (GUI)
+JDBC
+MySQL / relational database
+Object-Oriented Programming (OOP)
